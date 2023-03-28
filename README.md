@@ -1,4 +1,4 @@
-# c-project
+# cpp-project
 A simple code for converting fahrenheit value to celsius in c++, while enabling user to input fahrenheit value in the console
 In this program, we first declare two variables fahrenheit and celsius to store the temperature in Fahrenheit and Celsius, respectively. We then prompt the user to enter the temperature in Fahrenheit and read the input using the cin function.
 
